@@ -1,0 +1,3 @@
+name: Dharani
+qualification: B.Tech
+Address: Nalgonda
